@@ -82,3 +82,6 @@ Add to your .env.local file:
 ```env
 WORDPRESS_WEBHOOK_SECRET=YOUR_WORDPRESS_WEBHOOK_SECRET
 ```
+
+### Screenshot
+![Screenshot 2025-06-08 at 12 39 23 AM](https://github.com/user-attachments/assets/8d6793e6-e3a1-40ed-9617-06dbfed0d119)
