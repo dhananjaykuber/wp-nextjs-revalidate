@@ -23,7 +23,7 @@ A WordPress plugin that automatically triggers Next.js revalidation when content
 
 ### Next.js API Route
 
-Create an API route at `/app/api/revalidate/route.js` for App Router:
+Create an API route at `/app/api/revalidate/route.js` for App Router
 
 ```ts
 // Next.js dependencies
